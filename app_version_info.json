@@ -2,5 +2,5 @@
 	"version" : "2.2.0",
 	"updated_info_en" : "- 支持 EOS Force\n- 挖矿提现 bug 修复",
 	"updated_info_zh" : "",
-	"force_update" : "false"
+	"force_update" : false
 }
